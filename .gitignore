@@ -1,0 +1,12 @@
+build/
+out/*
+!out/.gitkeep
+scenes/*
+!scenes/README.md
+*.ply
+*.mp4
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+compile_commands.json
